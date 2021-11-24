@@ -2,7 +2,7 @@
 Università di Pisa
 Department of Computer Science.
 
-WORTH is a university project for Network lab course that consists of the creation of a tool to organize and to manage projects in collaboration.
+WORTH is a university project for Network lab course that consists of the creation of a tool to organize and to manage projects in a group setting.
 
 COMPILE
 ```js
